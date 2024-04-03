@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadish-jain&label=Profile%20views&color=0e75b6&style=flat" alt="aadish-jain" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **aadishjain0890@gmail.com**
 
